@@ -7,6 +7,9 @@ export default function Home() {
     // Note: The className values are using Tailwind CSS classes.
     //navbar
     <>
+    <div>
+      
+    </div>
     <header>
         <Navbar />
     </header>
